@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\bin\Debug\netcoreapp3.1\mock_abstraction.exe
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\bin\Debug\netcoreapp3.1\mock_abstraction.deps.json
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\bin\Debug\netcoreapp3.1\mock_abstraction.runtimeconfig.json
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\bin\Debug\netcoreapp3.1\mock_abstraction.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\bin\Debug\netcoreapp3.1\mock_abstraction.dll
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\bin\Debug\netcoreapp3.1\mock_abstraction.pdb
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\obj\Debug\netcoreapp3.1\mock_abstraction.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\obj\Debug\netcoreapp3.1\mock_abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\obj\Debug\netcoreapp3.1\mock_abstraction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\obj\Debug\netcoreapp3.1\mock_abstraction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\obj\Debug\netcoreapp3.1\mock_abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\obj\Debug\netcoreapp3.1\mock_abstraction.dll
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\obj\Debug\netcoreapp3.1\mock_abstraction.pdb
+C:\Users\Dell\source\repos\mock_abstraction\mock_abstraction\obj\Debug\netcoreapp3.1\mock_abstraction.genruntimeconfig.cache

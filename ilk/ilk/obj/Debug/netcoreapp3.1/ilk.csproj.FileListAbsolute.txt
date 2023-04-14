@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\ilk\ilk\bin\Debug\netcoreapp3.1\ilk.exe
+C:\Users\Dell\source\repos\ilk\ilk\bin\Debug\netcoreapp3.1\ilk.deps.json
+C:\Users\Dell\source\repos\ilk\ilk\bin\Debug\netcoreapp3.1\ilk.runtimeconfig.json
+C:\Users\Dell\source\repos\ilk\ilk\bin\Debug\netcoreapp3.1\ilk.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ilk\ilk\bin\Debug\netcoreapp3.1\ilk.dll
+C:\Users\Dell\source\repos\ilk\ilk\bin\Debug\netcoreapp3.1\ilk.pdb
+C:\Users\Dell\source\repos\ilk\ilk\obj\Debug\netcoreapp3.1\ilk.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ilk\ilk\obj\Debug\netcoreapp3.1\ilk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ilk\ilk\obj\Debug\netcoreapp3.1\ilk.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ilk\ilk\obj\Debug\netcoreapp3.1\ilk.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ilk\ilk\obj\Debug\netcoreapp3.1\ilk.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ilk\ilk\obj\Debug\netcoreapp3.1\ilk.dll
+C:\Users\Dell\source\repos\ilk\ilk\obj\Debug\netcoreapp3.1\ilk.pdb
+C:\Users\Dell\source\repos\ilk\ilk\obj\Debug\netcoreapp3.1\ilk.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\slip3\slip3\bin\Debug\netcoreapp3.1\slip3.exe
+C:\Users\Dell\source\repos\slip3\slip3\bin\Debug\netcoreapp3.1\slip3.deps.json
+C:\Users\Dell\source\repos\slip3\slip3\bin\Debug\netcoreapp3.1\slip3.runtimeconfig.json
+C:\Users\Dell\source\repos\slip3\slip3\bin\Debug\netcoreapp3.1\slip3.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\slip3\slip3\bin\Debug\netcoreapp3.1\slip3.dll
+C:\Users\Dell\source\repos\slip3\slip3\bin\Debug\netcoreapp3.1\slip3.pdb
+C:\Users\Dell\source\repos\slip3\slip3\obj\Debug\netcoreapp3.1\slip3.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\slip3\slip3\obj\Debug\netcoreapp3.1\slip3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\slip3\slip3\obj\Debug\netcoreapp3.1\slip3.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\slip3\slip3\obj\Debug\netcoreapp3.1\slip3.AssemblyInfo.cs
+C:\Users\Dell\source\repos\slip3\slip3\obj\Debug\netcoreapp3.1\slip3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\slip3\slip3\obj\Debug\netcoreapp3.1\slip3.dll
+C:\Users\Dell\source\repos\slip3\slip3\obj\Debug\netcoreapp3.1\slip3.pdb
+C:\Users\Dell\source\repos\slip3\slip3\obj\Debug\netcoreapp3.1\slip3.genruntimeconfig.cache

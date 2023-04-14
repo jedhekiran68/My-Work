@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\sky_practice\sky_practice\obj\Debug\net6.0\sky_practice.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\sky_practice\sky_practice\obj\Debug\net6.0\sky_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\sky_practice\sky_practice\obj\Debug\net6.0\sky_practice.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\sky_practice\sky_practice\obj\Debug\net6.0\sky_practice.AssemblyInfo.cs
+C:\Users\Dell\source\repos\sky_practice\sky_practice\obj\Debug\net6.0\sky_practice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\sky_practice\sky_practice\bin\Debug\net6.0\sky_practice.exe
+C:\Users\Dell\source\repos\sky_practice\sky_practice\bin\Debug\net6.0\sky_practice.deps.json
+C:\Users\Dell\source\repos\sky_practice\sky_practice\bin\Debug\net6.0\sky_practice.runtimeconfig.json
+C:\Users\Dell\source\repos\sky_practice\sky_practice\bin\Debug\net6.0\sky_practice.dll
+C:\Users\Dell\source\repos\sky_practice\sky_practice\bin\Debug\net6.0\sky_practice.pdb
+C:\Users\Dell\source\repos\sky_practice\sky_practice\obj\Debug\net6.0\sky_practice.dll
+C:\Users\Dell\source\repos\sky_practice\sky_practice\obj\Debug\net6.0\refint\sky_practice.dll
+C:\Users\Dell\source\repos\sky_practice\sky_practice\obj\Debug\net6.0\sky_practice.pdb
+C:\Users\Dell\source\repos\sky_practice\sky_practice\obj\Debug\net6.0\sky_practice.genruntimeconfig.cache
+C:\Users\Dell\source\repos\sky_practice\sky_practice\obj\Debug\net6.0\ref\sky_practice.dll

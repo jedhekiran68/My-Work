@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\jk\jk\bin\Debug\net6.0\jk.exe
+C:\Users\Dell\source\repos\jk\jk\bin\Debug\net6.0\jk.deps.json
+C:\Users\Dell\source\repos\jk\jk\bin\Debug\net6.0\jk.runtimeconfig.json
+C:\Users\Dell\source\repos\jk\jk\bin\Debug\net6.0\jk.dll
+C:\Users\Dell\source\repos\jk\jk\bin\Debug\net6.0\jk.pdb
+C:\Users\Dell\source\repos\jk\jk\obj\Debug\net6.0\jk.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\jk\jk\obj\Debug\net6.0\jk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\jk\jk\obj\Debug\net6.0\jk.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\jk\jk\obj\Debug\net6.0\jk.AssemblyInfo.cs
+C:\Users\Dell\source\repos\jk\jk\obj\Debug\net6.0\jk.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\jk\jk\obj\Debug\net6.0\jk.dll
+C:\Users\Dell\source\repos\jk\jk\obj\Debug\net6.0\refint\jk.dll
+C:\Users\Dell\source\repos\jk\jk\obj\Debug\net6.0\jk.pdb
+C:\Users\Dell\source\repos\jk\jk\obj\Debug\net6.0\jk.genruntimeconfig.cache
+C:\Users\Dell\source\repos\jk\jk\obj\Debug\net6.0\ref\jk.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sky", "sky\sky.csproj", "{DFF5C3AA-A0A2-4126-86D6-FCD88B011327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF5C3AA-A0A2-4126-86D6-FCD88B011327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF5C3AA-A0A2-4126-86D6-FCD88B011327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF5C3AA-A0A2-4126-86D6-FCD88B011327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF5C3AA-A0A2-4126-86D6-FCD88B011327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7936D21C-558E-4F70-B2CC-AD960F95EADB}
+	EndGlobalSection
+EndGlobal

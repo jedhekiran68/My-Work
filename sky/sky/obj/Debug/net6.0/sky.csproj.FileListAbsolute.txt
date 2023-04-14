@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\sky\sky\obj\Debug\net6.0\sky.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\sky\sky\obj\Debug\net6.0\sky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\sky\sky\obj\Debug\net6.0\sky.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\sky\sky\obj\Debug\net6.0\sky.AssemblyInfo.cs
+C:\Users\Dell\source\repos\sky\sky\obj\Debug\net6.0\sky.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\sky\sky\bin\Debug\net6.0\sky.exe
+C:\Users\Dell\source\repos\sky\sky\bin\Debug\net6.0\sky.deps.json
+C:\Users\Dell\source\repos\sky\sky\bin\Debug\net6.0\sky.runtimeconfig.json
+C:\Users\Dell\source\repos\sky\sky\bin\Debug\net6.0\sky.dll
+C:\Users\Dell\source\repos\sky\sky\bin\Debug\net6.0\sky.pdb
+C:\Users\Dell\source\repos\sky\sky\obj\Debug\net6.0\sky.dll
+C:\Users\Dell\source\repos\sky\sky\obj\Debug\net6.0\refint\sky.dll
+C:\Users\Dell\source\repos\sky\sky\obj\Debug\net6.0\sky.pdb
+C:\Users\Dell\source\repos\sky\sky\obj\Debug\net6.0\sky.genruntimeconfig.cache
+C:\Users\Dell\source\repos\sky\sky\obj\Debug\net6.0\ref\sky.dll
